@@ -13,12 +13,13 @@
     "stack": { "r": 256, "g": 165, "b": 66 },
     "monocle": { "r": 255, "g": 51, "b": 153 }
   },
+  "mouse_follows_focus": false,
   "monitors": [
     {
       "workspaces": [
         { "name": "I", "layout": "BSP" },
         { "name": "II", "layout": "VerticalStack" },
-        { "name": "III", "layout": "HorizontalStack" },
+        { "name": "III", "ayout": "HorizontalStack" },
         { "name": "IV", "layout": "UltrawideVerticalStack" },
         { "name": "V", "layout": "Rows" }
       ]
