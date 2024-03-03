@@ -1,5 +1,8 @@
 theme = "naysayer"
 
+[editor.cursor-shape]
+insert = "bar"
+
 [editor.statusline]
 mode.normal = "N"
 mode.insert = "I"
