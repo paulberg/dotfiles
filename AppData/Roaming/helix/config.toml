@@ -1,3 +1,11 @@
+theme = "naysayer"
+
+[editor.statusline]
+mode.normal = "N"
+mode.insert = "I"
+mode.select = "S"
+
+# Turn these off to avoid temptation
 [keys.insert]
 up = "no_op"
 down = "no_op"
@@ -8,6 +16,7 @@ pagedown = "no_op"
 home = "no_op"
 end = "no_op"
 
+# Use arrow keys for navigation
 [keys.normal]
 h = "no_op"
 j = "no_op"
